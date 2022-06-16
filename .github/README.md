@@ -3,7 +3,5 @@ MYT MÜZİK
 ## 🚀 Heroku Deployment
 
 <h4>Myt müzik'i Heroku'da dağıtmak için aşağıdaki düğmeyi tıklayın!</h4>    
-<a href="https://yukki.tech/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/01-Meyitzade-01/mytmusicbot1)]
